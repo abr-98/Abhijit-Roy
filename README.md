@@ -1,8 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome to My Personal Webpage
 
-You can use the [editor on GitHub](https://github.com/abr-98/PortFolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hi,I am Abhijit Roy. I am an undergrad student of Computer Science and Technology at National Institute Of Technology Durgapur. I am from Burdwan, West Bengal, India.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Personal Email: abhijitroy1998@gmail.com
+- Collage Email:ar.17u10228@btech.nitdgp.ac.in
+- Github :[abr-98](https://github.com/abr-98)
+- Linkedin:[abhijit-roy-57a7b1169](https://www.linkedin.com/in/abhijit-roy-57a7b1169/)
+- CV:[Abhijit-CV](https://www.slideshare.net/secret/KCSxBGkMdKgJ66)
+
+I am primarily a **Machine Learning Enthusiast**, alongside I have interests in **Networking Fields**. I am currently working on:
+- Brain Image Segmentation for Multiple Sclerosis Detection.
+- Effects and Operations of the Border Gateway Protocol on Routing of Packets.
 
 ### Markdown
 
