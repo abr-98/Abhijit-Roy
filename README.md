@@ -2,22 +2,9 @@
 
 Hi,I am Abhijit Roy. I am an undergrad student of Computer Science and Technology at National Institute Of Technology Durgapur. I am from Burdwan, West Bengal, India.
 
-- Personal Email: abhijitroy1998@gmail.com
-- Collage Email:ar.17u10228@btech.nitdgp.ac.in
-- Github :[abr-98](https://github.com/abr-98)
-- Linkedin:[abhijit-roy-57a7b1169](https://www.linkedin.com/in/abhijit-roy-57a7b1169/)
-- CV:[Abhijit-CV](https://www.slideshare.net/secret/KCSxBGkMdKgJ66)
-- Website: [My Website](https://abr-98.github.io/Abhijit-Roy/)
-
-I am primarily a **Machine Learning Enthusiast**, alongside I have interests in **Networking Fields**. I am currently working on:
+I am primarily a **Machine Learning** Enthusiast, alongside I have interests in **Networking** Fields. I am currently working on:
 - Brain Image Segmentation for Multiple Sclerosis Detection.
 - Effects and Operations of the Border Gateway Protocol on Routing of Packets.
-
-## Education details:
-
-- Secondary Education: Holy Rock School: ICSE: 91.7%
-- Higher Secondary Education: Burdwan Model School: CBSE: 88.9%
-- UnderGraduate Eduction: National Institute Of Technology Durgapur, CGPA- 8.95 (upto 6th sem)
 
 ## Research Interests:
 
@@ -80,6 +67,20 @@ I am primarily a **Machine Learning Enthusiast**, alongside I have interests in 
 - Drowsiness Detector:
   - Python based project on image processing to fire an alarm if it detects the driver sleeping by chance,it is a part of the idea to build a automated automobile module
 
+
+## Education details:
+
+- Secondary Education: Holy Rock School: ICSE
+- Higher Secondary Education: Burdwan Model School: CBSE
+- UnderGraduate Eduction: National Institute Of Technology Durgapur
+
+## Personal Details
+
+- Github :[abr-98](https://github.com/abr-98)
+- Linkedin:[abhijit-roy-57a7b1169](https://www.linkedin.com/in/abhijit-roy-57a7b1169/)
+- CV:[Abhijit-CV](https://www.slideshare.net/secret/KCSxBGkMdKgJ66)
+- Website: [My Website](https://abr-98.github.io/Abhijit-Roy/)
+- Personal Email: abhijitroy1998@gmail.com
 
 ## Scholastic Achievements:
 
