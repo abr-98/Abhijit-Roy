@@ -39,30 +39,50 @@ I am primarily a **Machine Learning Enthusiast**, alongside I have interests in 
 - Research Intern at CNERG, IIT Kharagpur:
   - Working on studying how the routes change between a source and a destination
   - Working on the role of Border Gateway Protocol for interdomain routing
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Skills:
+- **Languages: Python,C,C++**
+- **Platforms: Linux,Windows**
+- **Web development: HTML,CSS,PHP,Django(Basic)**
+- **Databases: MySQL,MongoDB(Basic)**
+- **Machine Learning**
+- **Computer Vision**
+- **Computer Networking**
+- **Database Management Systems**
 
-- Bulleted
-- List
+## Projects:
 
-1. Numbered
-2. List
+### Academic:
 
-**Bold** and _Italic_ and `Code` text
+- Road Profiling:
+  -  C++ project based on real time data with the objective to classify the type of road and classify bumps and pot-holes using defined function for linear regression 
 
-[Link](url) and ![Image](src)
-```
+- Speed-sensor:
+  - Python project based on application of Machine Learning and Artificial Neural Networks to find the safe speed on a road with some real time data and to rate a driver in real time comparing the driving speed with the optimal obtained speed flask appliction to host model
+ 
+- Bus-Stop-Finder:
+  - Python Project based on Machine Learning and application of artificial neural networks to detect the presence of a bus-stop at a particular point based on real data and prediction of future bus stop points analyzing the results obtained from the model.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Bio-Medical Image Segmentation:
+  - Convolutional neural networks based project for Multiple Sclerosis Lesion Segmentation and White matter segmentation based on Python.
 
-### Jekyll Themes
+- COVID-19 Effects on the Internet:
+  - Due to the effects of Work From Home culture there has been a lot of effect on the internet due to huge traffic. This project aims to study the changes and develop some modification.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/abr-98/PortFolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Personal:
 
-### Support or Contact
+- Cam-Security:
+  - Python Project based on Image Processing using webcams to let computers look after themselves in user-absence
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Stock-app:
+  - Project deploying Python,PHP,CSS,HTML5,XAMPP,Javascript,MYSQL to upload automated Real Time Trade Details File and host them on a site on personal user portals as Databases with Record
+ 
+-Drowsiness Detector:
+  - Python based project on image processing to fire an alarm if it detects the driver sleeping by chance,it is a part of the idea to build a automated automobile module
+
+
+## Scholastic Achievements:
+
+- Award Of Excellence, Oriental Asscociation for Education and Research,Burdwan
+- Certificate Of Appreciation, InterDistrict Math Olympiad,2016
+
