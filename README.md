@@ -77,7 +77,7 @@ I am primarily a **Machine Learning Enthusiast**, alongside I have interests in 
 - Stock-app:
   - Project deploying Python,PHP,CSS,HTML5,XAMPP,Javascript,MYSQL to upload automated Real Time Trade Details File and host them on a site on personal user portals as Databases with Record
  
--Drowsiness Detector:
+- Drowsiness Detector:
   - Python based project on image processing to fire an alarm if it detects the driver sleeping by chance,it is a part of the idea to build a automated automobile module
 
 
