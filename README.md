@@ -82,6 +82,9 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
 - Website: [My Website](https://abr-98.github.io/Abhijit-Roy/)
 - Personal Email: abhijitroy1998@gmail.com
 
+I am interested in reading and discovering new topics in my fields and express my views and share my experiences.
+-[Articles/Blogs](https://medium.com/@myac.abhijit) 
+
 ## Scholastic Achievements:
 
 - Award Of Excellence, Oriental Asscociation for Education and Research,Burdwan
