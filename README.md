@@ -4,7 +4,7 @@ Hi,I am Abhijit Roy. I am an undergrad student of Computer Science and Technolog
 
 I am primarily a **Machine Learning** Enthusiast, alongside I have interests in **Networking** Fields. I am currently working on:
 - Brain Image Segmentation for Multiple Sclerosis Detection.
-- Effects and Operations of the Border Gateway Protocol on Routing of Packets.
+- Application of Recurrent Neural networks with a combination of other networks like ANN , CNN and regressors
 
 ## Research Interests:
 
