@@ -78,7 +78,7 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
 
 - Github :[abr-98](https://github.com/abr-98)
 - Linkedin:[abhijit-roy-57a7b1169](https://www.linkedin.com/in/abhijit-roy-57a7b1169/)
-- CV:[Abhijit-CV](https://www.slideshare.net/secret/KCSxBGkMdKgJ66)
+- CV:[Abhijit-CV](https://www.slideshare.net/secret/fbfT2egIanyijW)
 - Website: [My Website](https://abr-98.github.io/Abhijit-Roy/)
 - Personal Email: abhijitroy1998@gmail.com
 
