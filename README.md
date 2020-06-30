@@ -71,6 +71,24 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
  
 - Drowsiness Detector:
   - Python based project on image processing to fire an alarm if it detects the driver sleeping by chance,it is a part of the idea to build a automated automobile module
+ 
+- Voice Controlled Security Systems:
+  - Python project based on image processing, face detection and comparison algorihms 
+  - The project is aimed to create an advanced voice controlled security door lock system which will operate on face unlock.
+
+- Stock Price Prediction Algorithm (Currently running):
+  - A attempt to predict the stock market price for a particular stock based on several factors that may affect the price
+  - This project attempts to consider past performances of the company and the condition of the other companies at that time and others.
+
+- A real time scrapper chatbot (Currently running):
+  - A chatbot with realtime webscrapping facilities.
+  
+  
+
+## Publication:
+
+- BusPOI:Context Aware Stay Location Characterization from Intra-city Bus Mobility Data and Smartphone Crowdsensing (Under Proceeding)
+ Authors: Ratna Mandal, Prasenjit Karmakar, Abhijit Roy, Arpan Saha, Soumyajit Chatterjee, Dr.Sujoy Saha, Dr.Sandip Chakraborty and Dr.Subrata Nandi
 
 
 ## Education details:
