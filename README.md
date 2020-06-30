@@ -1,9 +1,10 @@
 ## Welcome to My Webpage
 
-Hi,I am Abhijit Roy. I am an undergrad student of Computer Science and Technology at National Institute Of Technology Durgapur. I am from Burdwan, West Bengal, India.
+Hi,I am Abhijit Roy. I am currently an undergrad student of Computer Science and Technology at National Institute Of Technology Durgapur. I am from Burdwan, West Bengal, India.
 
 I am primarily a **Machine Learning** Enthusiast, alongside I have interests in **Networking** Fields. I am currently working on:
 - Brain Image Segmentation for Multiple Sclerosis Detection.
+- Image Preprocessing Applications.
 - Application of Recurrent Neural networks with a combination of other networks like ANN , CNN and regressors
 
 ## Research Interests:
@@ -26,6 +27,10 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
 - Research Intern at CNERG, IIT Kharagpur:
   - Working on studying how the routes change between a source and a destination
   - Working on the role of Border Gateway Protocol for interdomain routing
+
+- Freelance Technical Blogging:
+  - I write for Medium publication like 'The Startup', 'Git-Connected' and 'Towards AI'
+  - I write for Towards Data Science and Data Driven Investor
 
 ## Skills:
 - **Languages: Python,C,C++**
