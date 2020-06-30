@@ -2,7 +2,7 @@
 
 Hi,I am Abhijit Roy. I am currently an undergrad student of Computer Science and Technology at National Institute Of Technology Durgapur. I am from Burdwan, West Bengal, India.
 
-I am primarily a **Machine Learning** Enthusiast, alongside I have interests in **Networking** Fields.I am one of the data science and machine learning lover, who is very new to these domains. I love to keep exploring, having new ideas, implementing them, learning from them, and sharing my experiences with others. The awesome capabilities of machine learning and the opportunities make this domain really exciting for me. I am currently working on:
+I am primarily a **Machine Learning** Enthusiast, alongside I have interests in **Networking** Fields.I am one of the data science and machine learning lovers, who is very new to these domains. I love to keep exploring, having new ideas, implementing them, learning from them, and sharing my experiences with others. The awesome capabilities of machine learning and the opportunities make this domain really exciting for me. I am currently working on:
 
 - Brain Image Segmentation for Multiple Sclerosis Detection.
 - Image Preprocessing Applications.
