@@ -87,7 +87,7 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
 
 ## Publication:
 
-- BusPOI:Context Aware Stay Location Characterization from Intra-city Bus Mobility Data and Smartphone Crowdsensing (Under Proceeding)
+- ***BusPOI:Context Aware Stay Location Characterization from Intra-city Bus Mobility Data and Smartphone Crowdsensing (Under Proceeding)***
  Authors: Ratna Mandal, Prasenjit Karmakar, Abhijit Roy, Arpan Saha, Soumyajit Chatterjee, Dr.Sujoy Saha, Dr.Sandip Chakraborty and Dr.Subrata Nandi
 
 
