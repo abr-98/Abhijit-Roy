@@ -2,7 +2,8 @@
 
 Hi,I am Abhijit Roy. I am currently an undergrad student of Computer Science and Technology at National Institute Of Technology Durgapur. I am from Burdwan, West Bengal, India.
 
-I am primarily a **Machine Learning** Enthusiast, alongside I have interests in **Networking** Fields. I am currently working on:
+I am primarily a **Machine Learning** Enthusiast, alongside I have interests in **Networking** Fields.I am one of the data science and machine learning lover, who is very new to these domains. I love to keep exploring, having new ideas, implementing them, learning from them, and sharing my experiences with others. The awesome capabilities of machine learning and the opportunities make this domain really exciting for me. I am currently working on:
+
 - Brain Image Segmentation for Multiple Sclerosis Detection.
 - Image Preprocessing Applications.
 - Application of Recurrent Neural networks with a combination of other networks like ANN , CNN and regressors
@@ -82,7 +83,7 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
 
 - A real time scrapper chatbot (Currently running):
   - A chatbot with realtime webscrapping facilities.
-  
+ 
   
 
 ## Publication:
@@ -90,6 +91,12 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
 - ***BusPOI:Context Aware Stay Location Characterization from Intra-city Bus Mobility Data and Smartphone Crowdsensing (Under Proceeding)***
  Authors: Ratna Mandal, Prasenjit Karmakar, Abhijit Roy, Arpan Saha, Soumyajit Chatterjee, Dr.Sujoy Saha, Dr.Sandip Chakraborty and Dr.Subrata Nandi
 
+
+## My Interests:
+
+In the present world, Machine learning is getting immensely popular due to its capabilities of achieving success in solving problems, that has brought huge changes to the lives of common people. Currently, if we look closely, many of the services that we come across in our lives actually implement machine learning algorithms. It has found its application in several fields, from defense to medical. Some of the best and interesting applications for me are autonomous driving cars and human action and emotion detections. One of my dreams have been to work on these projects. I have had the opportunity to be a part of computer vision projects dedicated towards medical field. Computer vision  has great capabilities and if we can apply them in these fields we can achieve great hieghts of success. The machine learing field has a lot of applications to list them down, I have mentioned a few which are very interesting to me.
+
+To sum everything up, this field has never failed to surprise me, though I have not been here for long. Scientists and researchers have already achieved huge results in the current time and are working towards achieving more robust appications. I dream to work with the community to develop something which will serve the human community. 
 
 ## Education details:
 
