@@ -77,7 +77,7 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
   - Python project based on image processing, face detection and comparison algorihms 
   - The project is aimed to create an advanced voice controlled security door lock system which will operate on face unlock.
 
-- Stock Price Prediction Algorithm (Currently running):
+- Stock Price Prediction Algorithm:
   - A attempt to predict the stock market price for a particular stock based on several factors that may affect the price
   - This project attempts to consider past performances of the company and the condition of the other companies at that time and others.
 
