@@ -7,12 +7,14 @@ I am primarily a **Machine Learning** Enthusiast, alongside I have interests in 
 - Brain Image Segmentation for Multiple Sclerosis Detection.
 - Image Preprocessing Applications.
 - Application of Recurrent Neural networks with a combination of other networks like ANN , CNN and regressors
+- Development of Real time Chatbots 
 
 ## Research Interests:
 
 - Computer Vision
 - Neural Networks
 - Machine Learning
+- Natural language processing
 - Computer Networking
 
 ## Experience:
