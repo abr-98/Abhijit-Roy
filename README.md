@@ -112,7 +112,7 @@ To sum everything up, this field has never failed to surprise me, though I have 
 - Linkedin:[abhijit-roy-57a7b1169](https://www.linkedin.com/in/abhijit-roy-57a7b1169/)
 - CV:[Abhijit-CV](https://www.slideshare.net/secret/fbfT2egIanyijW)
 - Website: [My Website](https://abr-98.github.io/Abhijit-Roy/)
-- Personal Email: abhijitroy1998@gmail.com
+- Personal Mail: [Email](https://mail.google.com/mail/u/0/?view=cm&fs=1&tf=1&source=mailto&to=abhijitroy1998@gmail.com)
 
 I am interested in reading and discovering new topics in my fields and express my views and share my experiences.
 -[Articles/Blogs](https://medium.com/@myac.abhijit) 
